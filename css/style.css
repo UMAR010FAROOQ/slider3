@@ -418,10 +418,10 @@ body {
 .timeline__slides .timeline__slide-content img{
   margin: 50px 0px;
   width: fit-content	;
+  max-height: 360px;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
 }
-
 timeline__slide .img1{
   width: 90%;
 }
